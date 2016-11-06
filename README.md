@@ -1,4 +1,4 @@
-# Not
+# AlcoLook
 ## 製品概要
 ### Alco-Tech
 
